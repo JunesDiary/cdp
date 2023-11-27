@@ -1,14 +1,21 @@
 # CU-ST Radar Data Processor (CDP)
 
+vers ~~ 2.0 Win
 CDP aims to assist in analysis of spectral data dumped by CU-STR and obtain various functionalities from it. 
 
 ### Download and installation
-Install the following libraries using the pip install command, as they are required by the code to function. 
+Install the following libraries, as they are required by the code to function. 
 
 1. tkinter
 2. prettytable
 3. scipy
 4. Pillow
+
+i.e. run the following:
+
+```
+pip install tk prettytable scipy Pillow
+```
 
 Rest libraries used are JSON, Scipy, Matplotlib, Numpy, os, sys, math must be there with proper python3 installation. Download the codes in this repo.
 
