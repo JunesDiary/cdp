@@ -15,7 +15,9 @@ Rest libraries used are JSON, Scipy, Matplotlib, Numpy, os, sys, math must be th
 To run the code, open the cmd and move to the directory of the downloaded code. Then run the following:
 
 '''
+
 python3 cdp.py
+
 '''
 
 
