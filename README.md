@@ -4,7 +4,7 @@ vers ~~ 2.0 Win
 
 CDP aims to assist in analysis of spectral data dumped by CU-STR and obtain various functionalities from it. 
 
-![alt text](cdp.jpg)
+![alt text](https://github.com/JunesDiary/cdp/main/cdp.jpg?raw=true)
 
 
 ### Download and installation
