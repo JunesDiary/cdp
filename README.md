@@ -6,7 +6,7 @@ CDP aims to assist in analysis of spectral data dumped by CU-STR and obtain vari
 
 
 <p align="center" float="left">
-  <img src="https://github.com/JunesDiary/cdp/blob/main/cdp.jpg"  /> 
+  <img src="https://github.com/JunesDiary/cdp/main/cdp.jpg"  /> 
 </p>
 
 
